@@ -1,0 +1,11 @@
+ #smartslider3--3 h1, h2, h3, h4, h5, h6 {
+ 	font-size: unset !important;
+ }
+
+/*Media Queries*/
+
+@media screen and (min-width: 355px) {
+	.hidden-layer-from-355px {
+		display: none;
+	}
+}

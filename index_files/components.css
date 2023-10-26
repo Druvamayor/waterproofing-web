@@ -1,0 +1,40 @@
+/***Float Button***/
+#btn-float {
+		color:#ffffff;
+		font-family:inherit;
+		right: 2px; 
+		margin:0px;
+		box-shadow:0 10px 20px rgba(0,0,0,.2); 
+		border-radius:25px 0px 0px 25px;
+		padding: 6px;
+		position: fixed;
+		opacity: 0.85;
+		visibility:visible;
+		width:60px;
+		z-index: 1000000;
+	}
+
+#btn-float a:hover {
+	color: #ffffff;
+}
+
+.btn-projects {
+	top: 33%;
+}
+
+.btn-store {
+	top: 43%
+}
+
+/***End Button Flotaing***
+
+
+/***Media Queries****/
+/*Float Button*/
+
+@media (min-width:1920px) {
+	#btn-float {
+		display:none;
+	}
+}
+/***End Media Queries***/

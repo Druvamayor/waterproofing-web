@@ -1,0 +1,11 @@
+/*Get A Quote Button For Wocoommerce*/
+/*Get Quote Button for Woocommerce*/
+.summary .wpb-get-a-quote-button-btn {
+	margin-left: auto;
+	margin-right: auto;
+}
+
+button.swal2-close {
+	background-color: red;
+	color: #ffffff;
+}

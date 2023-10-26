@@ -1,0 +1,12 @@
+/*Dots for Slick Carousel*/
+
+.uagb-slick-carousel ul.slick-dots li button {
+    background-color: #ff3c00 !important;
+    border-radius: 20px;
+	padding: 6px !important;
+	margin: 6px !important;
+}
+
+.uagb-slick-carousel button.slick-arrow {
+	top: -30%;
+}

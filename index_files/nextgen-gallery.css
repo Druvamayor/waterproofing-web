@@ -1,0 +1,40 @@
+/* Next Gen Gallegry */
+.ngg-navigation {
+	padding-bottom: 24px !important;
+}
+.ngg-galleryoverview.default-view .ngg-gallery-thumbnail-box {
+	margin: 9px;
+}
+
+.ngg-galleryoverview.default-view .ngg-gallery-thumbnail a:hover {
+	background-color: #ffffff;
+	border-radius: 6px;
+}
+
+.ngg-galleryoverview.default-view .ngg-gallery-thumbnail img:hover{
+border-radius:12%;
+-webkit-border-radius:12%;
+transform: rotate(3deg);
+-webkit-transform: rotate(3deg);
+}
+
+.ngg-navigation a.page-numbers, .ngg-navigation a.next, .ngg-navigation a.prev, .ngg-navigation span.page-numbers, .ngg-navigation span.next, .ngg-navigation span.prev, .ngg-navigation span.current {
+    background-color: #fdd200 !important; 
+    border-radius: 12px !important;
+    color: #ffffff;
+    margin: 4px;
+	padding: 16px !important;
+}
+
+.ngg-navigation span.current {
+	background-color: #666666 !important;
+}
+
+.ngg-navigation a.page-numbers:hover, .ngg-navigation a.next:hover, .ngg-navigation a.prev:hover, .ngg-navigation span.page-numbers:hover, .ngg-navigation span.next:hover, .ngg-navigation span.prev:hover, .ngg-navigation span.current:hover {
+	background-color: #b79700 !important;
+	color: #ffffff !important;
+}
+
+.ngg-navigation a.next, .ngg-navigation a.prev, .ngg-navigation span.next, .ngg-navigation span.prev {
+	color: #ffffff !important;
+}

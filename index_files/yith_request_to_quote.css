@@ -1,0 +1,22 @@
+/*Yith Assets*/
+
+.yith-ywraq-add-to-quote {
+	text-align: center;
+}
+
+.yith_ywraq_add_item_browse_message {
+	margin-bottom: 3.5rem;
+}
+
+.yith_ywraq_add_item_browse_message > a {
+	color: #ffffff !important;
+	background-color: green !important;
+	border-radius: 0.25rem !important;
+	font-size: 1rem !important;
+	padding: 0.65rem !important;
+}
+
+.yith_ywraq_add_item_response_message {
+	font-weight: bold;
+	margin-bottom: 1rem;
+}

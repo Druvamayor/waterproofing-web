@@ -1,0 +1,53 @@
+/*Easy Testimonial Rotator*/
+
+.bx-wrapper-et .bx-viewport {
+	background-color: #ffffff00 !important;
+}
+.bx-wrapper-et {
+	border: none;
+	box-shadow: none !important;
+}
+
+.style1 div.childDiv_style1 div.bxsliderx.rowcust div div.rowupdate.margin_Quotes div.colupdate-sm-12.setmargin div img.imgupdate-circle.imgupdate-circle-img {
+	content: url(https://abdimper.com/wp-content/uploads/2021/03/Insignia-150x150-1.png) !important;
+}
+.style1 div.childDiv_style1 div.bxsliderx.rowcust div div.rowupdate blockquote.open_close {
+	color: gray;
+	font-size: 1.12em !important;
+}
+.style1 div.childDiv_style1 div.bxsliderx.rowcust div div.rowupdate blockquote.open_close .author_name,
+.style1 div.childDiv_style1 div.bxsliderx.rowcust div div.rowupdate blockquote.open_close .author_position {
+    color: #000000; 
+    font-size: 1em !important;
+	text-align: left !important;
+}
+.bx-wrapper-et .bx-prev,
+.bx-wrapper-et .bx-next {
+
+}
+/*form*/
+.testimonial-form {
+	background-color: #e4e4e4;
+	padding: 25px;
+	text-align: center;
+}
+.testimonial-form .auth_photo,
+.testimonial-form .cpatchadiv {
+	margin: auto;
+}
+.testimonial-form input[type="text"],
+.testimonial-form .auth_photo,
+.testimonial-form textarea {
+	margin: 20px auto !important;
+}
+.testimonial-form .form_link_label {
+	font-size: 16px !important;
+}
+.testimonial-form .submit {
+	background-color: #fdd200;
+	color: #000000;
+    font-size: 20px !important;
+    margin-bottom: 10px;
+    padding: 1em;
+    border-radius: 0.6em;
+}
